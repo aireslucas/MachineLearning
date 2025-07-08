@@ -27,7 +27,7 @@ Student: Lucas Aires da Costa Silva
   1) First step - *[Study_week11.ipynb](https://github.com/aireslucas/MachineLearning/blob/main/Study_week11.ipynb)*:
      + Testing the algorithm by changing the number of features, to see how it effects the results of training;
      + Changing the blocks of processing to see its effects (we observed a problem, because of the image size);
-  2) Second step - *[Multiclass_pt1_Lucas_Aires.ipynb]()*:
+  2) Second step - *[Multiclass_pt1_Lucas_Aires.ipynb](https://github.com/aireslucas/MachineLearning/blob/main/Multiclass_pt1_Lucas_Aires.ipynb)*:
      + Selecting a dataset of images, for multiclass classfication problem *(https://www.kaggle.com/datasets/alsaniipe/flowers-multiclass-datasets)*;
      + Data preparation;
      + Dropout test;
