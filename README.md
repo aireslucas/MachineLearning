@@ -1,6 +1,7 @@
 # MachineLearning
 Codes for the course of Machine Learning at UFRN
 PPGEEC2318 - Machine Learning - Prof. Ivanovich Silva
+
 Student: Lucas Aires da Costa Silva
 
 # Activity 01
