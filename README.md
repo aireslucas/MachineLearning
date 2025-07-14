@@ -34,4 +34,8 @@ Student: Lucas Aires da Costa Silva
      + Dropout test;
      + Fancier Model;
      + Case of Study;
-     + Model Training and Metrics
+     + Model Training and Metrics:
+       + Accuracy
+       + Filters 
+       + Confusion Matrix
+       + Hooks 
