@@ -38,4 +38,6 @@ Student: Lucas Aires da Costa Silva
        + Accuracy
        + Filters 
        + Confusion Matrix
-       + Hooks 
+       + Hooks
+       + Learning Rate Finder
+  3) Third step - 
