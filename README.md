@@ -40,4 +40,6 @@ Student: Lucas Aires da Costa Silva
        + Confusion Matrix
        + Hooks
        + Learning Rate Finder
-  3) Third step - 
+  3) Third step - *[Multiclass_pt2_Lucas_Aires.ipynb](https://github.com/aireslucas/MachineLearning/blob/main/Multiclass_pt1_Lucas_Aires_v1_copy.ipynb)*
+     + Studing the learning rate
+     + Changing the value to the LRFinder
